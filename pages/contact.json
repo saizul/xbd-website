@@ -1,0 +1,37 @@
+[
+  {
+    "id": "c39910c",
+    "elType": "container",
+    "settings": {
+      "content_width": "full",
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      },
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "49a3df3",
+        "elType": "widget",
+        "settings": {
+          "html": "<main id=\"xbd-root\">\n<header class=\"xb-hero xb-pg\"><div class=\"xb-bg\"><div class=\"xb-grid-bg\"></div></div><div class=\"xb-wrap\"><div class=\"xb-crumb\"><a href=\"/\">Home</a> / Contact</div><span class=\"xb-tag\">// let’s talk</span><h1>Let’s grow <span class=\"xb-grad\">your brand.</span></h1><p class=\"xb-lead\">Tell us about your business and goals. We reply with honest advice and a clear quote — usually within a day.</p></div></header>\n<section class=\"xb-alt\" id=\"contact\">\n  <div class=\"xb-wrap\">\n    <div class=\"xb-ct\">\n      <div class=\"xb-rv\">\n        <span class=\"xb-tag\">// let’s talk</span>\n        <h2>Ready to <span class=\"xb-grad\">grow your brand?</span></h2>\n        <p class=\"xb-sub\">Tell us about your business and goals. We’ll reply with honest advice and a clear quote — usually within a day.</p>\n        <div class=\"xb-info\">\n          <a href=\"https://wa.me/8801833375133\" target=\"_blank\" rel=\"noopener\"><em>💬</em><span>WhatsApp · +880 1833-375133</span></a>\n          <a href=\"mailto:info@x-bd.com\"><em>✉️</em><span>info@x-bd.com</span></a>\n          <a href=\"tel:+8801833375133\"><em>📞</em><span>+880 1833-375133</span></a>\n          <div><em>📍</em><span>Dhaka, Bangladesh · Working worldwide</span></div>\n        </div>\n      </div>\n      <div class=\"xb-form xb-gl xb-rv\" id=\"xb-form\"><h3>Get a free growth audit</h3><p>Tell us about your project — we reply by email, usually within a day.</p>[contact-form-7 id=\"10779\" title=\"XBD Project Enquiry\"]<p class=\"xb-alt-wa\">Prefer a quick chat? <a href=\"https://wa.me/8801833375133\" target=\"_blank\" rel=\"noopener\">Message us on WhatsApp →</a></p></div>\n    </div>\n  </div>\n</section>\n</main>"
+        },
+        "elements": [],
+        "widgetType": "html"
+      }
+    ],
+    "isInner": false
+  }
+]

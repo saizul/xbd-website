@@ -1,0 +1,37 @@
+[
+  {
+    "id": "c39910c",
+    "elType": "container",
+    "settings": {
+      "content_width": "full",
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      },
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "49a3df3",
+        "elType": "widget",
+        "settings": {
+          "html": "<main id=\"xbd-root\">\n<header class=\"xb-hero xb-pg\"><div class=\"xb-bg\"><div class=\"xb-grid-bg\"></div></div><div class=\"xb-wrap\"><div class=\"xb-crumb\"><a href=\"/\">Home</a> / About</div><span class=\"xb-tag\">// about xbd</span><h1>Xplore Brand <span class=\"xb-grad\">Differently.</span></h1><p class=\"xb-lead\">XBD is a digital growth agency in Dhaka, Bangladesh. We combine marketing, web, design and content so brands can grow consistently — at home and abroad.</p><div class=\"xb-cta\" style=\"margin-top:34px\"><a class=\"xb-btn pri\" href=\"/contact/\">Work with us →</a><a class=\"xb-btn sec\" href=\"https://wa.me/8801833375133\" target=\"_blank\" rel=\"noopener\">Chat on WhatsApp</a></div></div></header>\n<section id=\"story\"><div class=\"xb-wrap\"><div class=\"xb-story\"><div class=\"xb-rv\"><span class=\"xb-tag\">// who we are</span><h2>A growth partner, <span class=\"xb-grad\">not just a vendor.</span></h2><p>XBD stands for <strong style=\"color:#fff\">Xplore Brand Differently</strong>. We help businesses look credible, get found and win customers online — without juggling five different agencies.</p><p>Our team works hands-on across SEO, websites, social media, design, content, branding and video, and reports on what matters: leads, sales and visibility.</p></div><div class=\"xb-rv\"><div class=\"xb-nums\" style=\"grid-template-columns:1fr 1fr\"><div class=\"xb-gl\"><b data-n=\"30\" data-s=\"+\">0</b><span>Projects delivered</span></div><div class=\"xb-gl\"><b data-n=\"7\" data-s=\"+\">0</b><span>Years of combined experience</span></div><div class=\"xb-gl\"><b data-n=\"3\" data-s=\"\">0</b><span>Markets: BD · UK · USA</span></div><div class=\"xb-gl\"><b data-n=\"7\" data-s=\"\">0</b><span>Services under one roof</span></div></div></div></div></div></section>\n<section class=\"xb-alt\" id=\"why\">\n  <div class=\"xb-wrap\">\n    <div class=\"xb-head xb-rv xb-center\">\n      <span class=\"xb-tag\">// why xbd</span>\n      <h2 class=\"xb-h2\">A growth partner, <span class=\"xb-grad\">not just a vendor.</span></h2>\n    </div>\n    <div class=\"xb-why\">\n      <div class=\"xb-gl xb-rv\"><b>01</b><h3>Results, not just deliverables</h3><p>Every project starts from a business goal — leads, sales or visibility — and we report on it.</p></div>\n      <div class=\"xb-gl xb-rv\"><b>02</b><h3>Honest scope &amp; promises</h3><p>We only sell what we can deliver, and tell you early if something isn’t the right fit.</p></div>\n      <div class=\"xb-gl xb-rv\"><b>03</b><h3>One team, every channel</h3><p>Strategy, design, web, SEO and video under one roof for a consistent brand everywhere.</p></div>\n      <div class=\"xb-gl xb-rv\"><b>04</b><h3>Built to scale</h3><p>Clean websites, reusable creative and tracked campaigns that keep working as you grow.</p></div>\n    </div>\n    <div class=\"xb-head xb-rv xb-center\" style=\"margin-bottom:46px\">\n      <span class=\"xb-tag\">// how we work</span>\n      <h2 class=\"xb-h2\" style=\"font-size:clamp(28px,3.6vw,44px)\">From first call to <span class=\"xb-grad\">steady growth.</span></h2>\n    </div>\n    <div class=\"xb-steps\">\n      <div class=\"xb-step xb-rv\"><i>01</i><h3>Discover</h3><p>Goals, audience, competitors and a quick audit of what you have today.</p></div>\n      <div class=\"xb-step xb-rv\"><i>02</i><h3>Plan</h3><p>A clear strategy, scope, timeline and quote — approved before we start.</p></div>\n      <div class=\"xb-step xb-rv\"><i>03</i><h3>Create</h3><p>Design, build and content produced with regular check-ins.</p></div>\n      <div class=\"xb-step xb-rv\"><i>04</i><h3>Launch</h3><p>Go live with tracking in place, so every result has a number.</p></div>\n      <div class=\"xb-step xb-rv\"><i>05</i><h3>Grow</h3><p>Optimise, report and scale what works.</p></div>\n    </div>\n  </div>\n</section>\n<section id=\"team\">\n  <div class=\"xb-wrap\">\n    <div class=\"xb-head xb-rv xb-center\">\n      <span class=\"xb-tag\">// the founders</span>\n      <h2 class=\"xb-h2\">Two founders, <span class=\"xb-grad\">one standard.</span></h2>\n      <p class=\"xb-sub\">XBD is run hands-on by its founders — one leads growth and client strategy, the other leads creative and production.</p>\n    </div>\n    <div class=\"xb-team\">\n      <div class=\"xb-mem xb-gl xb-rv\"><img src=\"/wp-content/uploads/2026/10/xbd-team-saizul-amin.jpg\" width=\"800\" height=\"800\" alt=\"Saizul Amin, Founder and CEO of XBD\" loading=\"lazy\"><div><small>Founder &amp; CEO</small><h3>Saizul Amin</h3><p>Leads growth, marketing and client strategy. AI automation, SEO and web-systems specialist with 5+ years across web development and performance marketing.</p><a href=\"https://saizul.com/\" target=\"_blank\" rel=\"noopener\">saizul.com ↗</a></div></div>\n      <div class=\"xb-mem xb-gl xb-rv\"><img src=\"/wp-content/uploads/2026/10/xbd-team-anam-ahmed.jpg\" width=\"800\" height=\"800\" alt=\"Anam Ahmed, Co-founder and Chief Creative Officer of XBD\" loading=\"lazy\"><div><small>Co-founder &amp; Chief Creative Officer</small><h3>Anam Ahmed</h3><p>Leads creative and production — brand design, motion graphics and video editing — keeping every project visually consistent and on brand.</p></div></div>\n    </div>\n  </div>\n</section>\n<section class=\"xb-alt\" id=\"markets\"><div class=\"xb-wrap\"><div class=\"xb-head xb-rv xb-center\"><span class=\"xb-tag\">// where we work</span><h2 class=\"xb-h2\">Based in Dhaka, <span class=\"xb-grad\">working worldwide.</span></h2><p class=\"xb-sub\">We collaborate remotely with clients across Bangladesh, the UK and the USA.</p></div><div class=\"xb-chips\" style=\"justify-content:center\"><span>🇧🇩 Bangladesh</span><span>🇬🇧 United Kingdom</span><span>🇺🇸 United States</span><span>🌍 Remote-friendly</span></div></div></section>\n</main>"
+        },
+        "elements": [],
+        "widgetType": "html"
+      }
+    ],
+    "isInner": false
+  }
+]

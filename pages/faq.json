@@ -1,0 +1,37 @@
+[
+  {
+    "id": "c39910c",
+    "elType": "container",
+    "settings": {
+      "content_width": "full",
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      },
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "49a3df3",
+        "elType": "widget",
+        "settings": {
+          "html": "<main id=\"xbd-root\">\n<header class=\"xb-hero xb-pg\"><div class=\"xb-bg\"><div class=\"xb-grid-bg\"></div></div><div class=\"xb-wrap\"><div class=\"xb-crumb\"><a href=\"/\">Home</a> / FAQ</div><span class=\"xb-tag\">// faq</span><h1>Questions, <span class=\"xb-grad\">answered.</span></h1><p class=\"xb-lead\">Everything people usually ask before working with XBD. Can’t find your answer? Message us.</p><div class=\"xb-cta\" style=\"margin-top:34px\"><a class=\"xb-btn pri\" href=\"/contact/\">Ask us anything →</a><a class=\"xb-btn sec\" href=\"https://wa.me/8801833375133\" target=\"_blank\" rel=\"noopener\">Chat on WhatsApp</a></div></div></header>\n<section id=\"faq\">\n  <div class=\"xb-wrap\">\n    <div class=\"xb-head xb-rv xb-center\">\n      <span class=\"xb-tag\">// faq</span>\n      <h2 class=\"xb-h2\">Questions, <span class=\"xb-grad\">answered.</span></h2>\n    </div>\n    <div class=\"xb-faq xb-rv\">\n      <details><summary>What does XBD do?</summary><p>XBD (Xplore Brand Differently) is a digital growth agency in Dhaka, Bangladesh. We provide social media marketing, SEO, graphic design, website design and development, content creation, branding and video editing.</p></details>\n      <details><summary>Who do you work with?</summary><p>Startups, growing businesses, education and training providers, non-profits and agencies in Bangladesh, the UK and the USA — and anywhere else we can work with you remotely.</p></details>\n      <details><summary>How much does it cost?</summary><p>Static design and video editing have published starting prices (see Packages). Websites, SEO, social media marketing and branding are quoted after a short discovery call, based on your goals and scope.</p></details>\n      <details><summary>How do we get started?</summary><p>Send us a message on WhatsApp or through the form below. We’ll ask about your goals, share a clear scope, timeline and quote, and start once you approve.</p></details>\n      <details><summary>How long does a project take?</summary><p>It depends on scope. You get a clear schedule in the quote before we start, and regular check-ins while we work.</p></details>\n      <details><summary>Can I see examples of your work?</summary><p>Yes — see Selected Work above. We’re happy to share more examples that match your industry on request.</p></details>\n      <details><summary>Do you work with clients outside Bangladesh?</summary><p>Yes. Our team works remotely with clients in Bangladesh, the UK and the USA, in English and Bangla.</p></details>\n    </div>\n  </div>\n</section>\n</main>"
+        },
+        "elements": [],
+        "widgetType": "html"
+      }
+    ],
+    "isInner": false
+  }
+]

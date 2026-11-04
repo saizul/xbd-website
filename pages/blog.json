@@ -1,0 +1,37 @@
+[
+  {
+    "id": "c39910c",
+    "elType": "container",
+    "settings": {
+      "content_width": "full",
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      },
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "49a3df3",
+        "elType": "widget",
+        "settings": {
+          "html": "<main id=\"xbd-root\">\n<header class=\"xb-hero xb-pg\"><div class=\"xb-bg\"><div class=\"xb-grid-bg\"></div></div><div class=\"xb-wrap\"><div class=\"xb-crumb\"><a href=\"/\">Home</a> / Blog</div><span class=\"xb-tag\">// insights</span><h1>Ideas for <span class=\"xb-grad\">growing your brand.</span></h1><p class=\"xb-lead\">Practical notes on SEO, websites, social media and creative from the XBD team.</p></div></header>\n<section id=\"posts\"><div class=\"xb-wrap\"><div class=\"xb-posts\" id=\"xb-posts\" data-n=\"12\" data-full=\"1\"></div><div class=\"xb-empty xb-gl\" id=\"xb-blog-empty\" style=\"display:none\"><h3>Articles are on the way</h3><p>We’re preparing practical guides on SEO, web and social media. In the meantime, tell us about your project — we’re happy to share advice directly.</p><a class=\"xb-btn pri\" href=\"/contact/\">Talk to us →</a></div></div></section>\n</main>"
+        },
+        "elements": [],
+        "widgetType": "html"
+      }
+    ],
+    "isInner": false
+  }
+]
