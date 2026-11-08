@@ -1,0 +1,37 @@
+[
+  {
+    "id": "a1b2c3d",
+    "elType": "container",
+    "settings": {
+      "content_width": "full",
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      },
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "e4f5a6b",
+        "elType": "widget",
+        "settings": {
+          "html": "<main id=\"xbd-root\">\n<header class=\"xb-hero xb-pg\"><div class=\"xb-bg\"><div class=\"xb-grid-bg\"></div></div><div class=\"xb-wrap xb-two\"><div><div class=\"xb-crumb\"><a href=\"/\">Home</a> / Videos</div><span class=\"xb-tag\"><span class=\"xb-dot\"></span>// video &amp; motion work</span><h1>Videos that <span class=\"xb-grad\">sell the story.</span></h1><p class=\"xb-lead\">Animated explainers, SaaS launch videos and brand films we produce for startups and businesses in the UK, USA and Bangladesh. Every new upload on our YouTube channel appears here automatically.</p><div class=\"xb-cta\" style=\"margin-top:30px\"><a class=\"xb-btn pri\" href=\"#all-videos\">Watch our work ↓</a><a class=\"xb-btn sec\" href=\"/contact/\">Order a video</a></div></div><div>[xbd_videos featured=\"1\"]</div></div></header>\n<section class=\"xb-alt\" id=\"all-videos\" style=\"padding-top:90px\"><div class=\"xb-wrap\"><div class=\"xb-head xb-rv xb-center\"><span class=\"xb-tag\">// full library</span><h2 class=\"xb-h2\">All videos, <span class=\"xb-grad\">newest first.</span></h2><p class=\"xb-sub\">Pick a category, then click any video to watch it right here.</p></div>[xbd_videos limit=\"all\" filters=\"1\" schema=\"1\"]<div class=\"xb-center\" style=\"margin-top:44px\"><a class=\"xb-btn sec\" href=\"https://www.youtube.com/@XploreBrandDifferently?sub_confirmation=1\" target=\"_blank\" rel=\"noopener\">Subscribe on YouTube ↗</a></div></div></section>\n<section id=\"video-cta\"><div class=\"xb-wrap\"><div class=\"xb-head xb-rv xb-center\"><span class=\"xb-tag\">// next project</span><h2 class=\"xb-h2\">Need a video like these <span class=\"xb-grad\">for your brand?</span></h2><p class=\"xb-sub\">From script and storyboard to motion design, voice-over and delivery for ads, websites and social. Tell us what you are launching.</p><div class=\"xb-cta\" style=\"margin-top:28px;justify-content:center\"><a class=\"xb-btn pri\" href=\"/contact/\">Start a video project →</a><a class=\"xb-btn sec\" href=\"/services/\">See all services</a></div></div></div></section>\n</main>"
+        },
+        "elements": [],
+        "widgetType": "html"
+      }
+    ],
+    "isInner": false
+  }
+]
